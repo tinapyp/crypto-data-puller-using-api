@@ -1,4 +1,4 @@
-# CryptoDataPuller
+# Crypto Data Puller using Coin Market Cap API
 This project aims to automate the process of pulling the latest cryptocurrency data from the Coin Market Cap API and storing the data in a CSV file. The project also includes data cleaning and visualization for selected cryptocurrencies.
 
 ## Requirements
